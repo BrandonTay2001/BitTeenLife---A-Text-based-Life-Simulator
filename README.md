@@ -26,7 +26,7 @@ Text-based life simulator from ages 13-23, based on the game 'BitLife - Life Sim
 
 #### Features included according to the requirements of the project:
 1. Random events generated at every age. We will use the rand() function to select a random event from an array of possible events. *<coding requirement 1>*
-2. Data structures (eg: arrays) to store random events and user choices for a summary at the end of the game (TBD). *<coding requirement 2>*
+2. Data structures (eg: arrays) to store random events and user choices for a summary at the end of the game (TBD). We will also use structs to sture the member variables of health, money and happiness. *<coding requirement 2>*
 3. Dynamic memory management when dealing with variables and arrays. *<coding requirement 3>*
 4. File I/O for saving and loading game status (the user can add a file which the game saves its progress to, continuing from the last saved point when this is loaded again) or outputting a summary at the end of the game (where the summary is output to a user-set .txt file). *<coding requirement 4>*
 5. Different functions in different files (1 file for manipulating the user stats, 1 file for choosing random events, 1 file for determining the event for certain years based on the character stats, 1 main file) *<coding requirement 5>*
