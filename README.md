@@ -10,7 +10,7 @@ Group members:
 Text-based life simulator from ages 13-23, based on the game 'BitLife - Life Simulator'. 
 
 #### Compilation and Execution:
-Use the terminal in the directory where the game files are located and type 'make play' in the command line.
+Use the terminal in the directory where the game files (ie. the gameFiles folder) are located and type 'make play' in the command line.
 
 #### Game rules: 
 1. Character stats will consist of 3 variables:
@@ -43,3 +43,6 @@ Use the terminal in the directory where the game files are located and type 'mak
 2. The name inputted by the user must be of a single word.
 #### Settings to be played on:
 1. Set the terminal window to full screen to prevent too many cut off words.
+#### Other things to take note of:
+1. The sample input and output files are for reference only. Due to the random nature of our game, it is highly unlikely that the same inputs will generate the same outputs.
+2. Our code has lines which are very long due to us dealing with raw string literals. According to https://google.github.io/styleguide/cppguide.html#Line_Length, this is acceptable.
