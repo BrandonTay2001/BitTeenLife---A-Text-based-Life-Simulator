@@ -5,6 +5,7 @@ Group members:
 2. Yoo Yuen Yau (3035832440)
 
 ## **BitTeenLife**
+### (PLEASE READ THROUGH THE WHOLE FILE)
 
 #### Game description: 
 Text-based life simulator from ages 13-23, based on the game 'BitLife - Life Simulator'. 
@@ -41,8 +42,10 @@ Use the terminal in the directory where the game files (ie. the gameFiles folder
 #### Assumptions with inputs:
 1. All inputs are valid.
 2. The name inputted by the user must be of a single word.
+3. .txt file that user inputs when prompted during loading a saved game exists and is valid.
 #### Settings to be played on:
 1. Set the terminal window to full screen to prevent too many cut off words.
 #### Other things to take note of:
 1. The sample input and output files are for reference only. Due to the random nature of our game, it is highly unlikely that the same inputs will generate the same outputs.
 2. Our code has lines which are very long due to us dealing with raw string literals. According to https://google.github.io/styleguide/cppguide.html#Line_Length, this is acceptable.
+3. During compilation and execution, there will be a file called tempfile.txt that will be created. Please ignore this file (don't do anything about it) as it is just an empty file to store any unfinished game states (if any).
