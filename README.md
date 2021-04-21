@@ -37,9 +37,9 @@ Use the terminal in the directory where the game files are located and type 'mak
 4. File I/O for saving and loading game status (the user can add a file to which the game progress is written and saved, and from which previous game progress can be read and loaded) or outputting a summary at the end of the game (summary is stored in a user-set .txt file). *<coding requirement 4>*
 5. Different functions in different files (file for manipulating player stats, files for choosing random events, files for determining the event for certain years based on the character stats, file for main program) *<coding requirement 5>*
 
-## Problem Statement:
-### Assumptions with inputs:
+### Problem Statement:
+#### Assumptions with inputs:
 1. All inputs are valid.
 2. The name inputted by the user must be of a single word.
-### Settings to be played on:
+#### Settings to be played on:
 1. Set the terminal window to full screen to prevent too many cut off words.
