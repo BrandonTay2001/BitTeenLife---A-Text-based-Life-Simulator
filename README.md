@@ -9,7 +9,7 @@ Group members:
 
 #### Game description: 
 Text-based life simulator from ages 13-23, a parody of the game 'BitLife - Life Simulator'. 
-Note: This is a game that is not supposed to be taken too seriously since it's just a parody (there will be ridiculous events rhoughout the game).
+Note: This is a game that is not supposed to be taken too seriously since it's just a parody (there will be ridiculous events thoughout the game).
 
 #### Compilation and Execution:
 Use the terminal in the directory where the game files (ie. the gameFiles folder) are located and type 'make play' in the command line.
@@ -30,7 +30,7 @@ Use the terminal in the directory where the game files (ie. the gameFiles folder
    - events of 7 'minor' years will be randomly selected from a collection of presets, and consist of statement- and choice-based events (1 each per year).
 7. A list of responses to choice-based events will be displayed for the user to choose from.
 8. User inputs a number corresponding to the response of their choice to pick it. 
-9. Each choice may affect 1 or more variables of the character's stats.
+9. Each choice may affect 1 or more variables of the character's stats. Since the stats have a range of 0-2, 0 will be the minimum and 2 will be the maximum.
 10. At the end of the game, the user can read through the .txt file which was used to save the game as a summary.
 
 #### Features included according to the requirements of the project:
@@ -53,7 +53,7 @@ Use the terminal in the directory where the game files (ie. the gameFiles folder
 1. The sample input and output files are for reference only. Due to the random nature of our game, it is highly unlikely that the same inputs will generate the same outputs.
 2. Our code has lines which are very long due to us dealing with raw string literals. According to https://google.github.io/styleguide/cppguide.html#Line_Length, this is acceptable.
 3. During compilation and execution, there will be a file called tempfile.txt that will be created. Please ignore this file (don't do anything about it) as it is just an empty file to store any unfinished game states (if any).
-4. When a user saves a game during any year other than years 13, 18 and 21, there may be a possibility that events may repeat due to the random nature of our game. Howeever, we still decided to include the option to save the game during every year to maximise user experience.
+4. When a user saves a game during any year other than years 13, 18 and 21, there may be a possibility that events may repeat due to the random nature of our game. However, we still decided to include the option to save the game during every year to maximise user experience.
 #### Why we chose this game:
 Both of us have played BitLife and found the game fun. However, we thought the game was repetitive and uninteresting after many playthroughs, so we decided to create a parody of the game in order to make things more interesting. 
 
