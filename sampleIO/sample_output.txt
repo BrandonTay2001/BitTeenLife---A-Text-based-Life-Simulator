@@ -1,0 +1,893 @@
+Welcome to BitTeenLife, a short parody of BitLife! 
+For optimal experience, play with your terminal maximized to Fullscreen!
+Various assumptions on input:
+a) All inputs must be VALID
+b) Name must be a SINGLE word
+
+Enter:
+<1> to load new game
+<2> to load saved game
+1
+Enter name of .txt file to save game progress: saved.txt
+Enter your character's name: brian
+
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 1         HAPPINESS: 1
+--------------------------------------------------
+
+You get to upgrade one of your stats! 
+1: health
+2: money
+3: happiness
+Enter choice: 1
+
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 2         HAPPINESS: 1
+--------------------------------------------------
+
+Age: 13
+-------
+You’re obsessed with running and are fit af. One day, you joined a 10k run and just before the finish line, you looked behind to see if anyone was behind you and fell into the roadside drain, twisting your ankle really badly. You
+1: get up and fight your way to the finish line in EPIC fashion just like you see in the movies.
+2: climb out of the drain miserably and wait for medical assistance...
+Enter choice: 2
+Your crush saw you being treated and limping away on crutches and you regretted not toughing it out.
+<-1 health, -1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 1         HAPPINESS: 0
+--------------------------------------------------
+
+You were being bullied and made fun of by your classmate for being depressed. You decide to fight back, and
+1: punched them in their backside.
+2: slapped them in their fat belly.
+3: kicked them in their you know...
+Enter choice: 1
+You got sent to the principal’s office for your BRUTAL actions. However, you felt really good and got cured of your depression. Congrats!
+<+1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 1         HAPPINESS: 1
+--------------------------------------------------
+
+You just hit puberty and noticed pubic hair growing out of your armpits. You
+1: take your dad’s shaver to shave it off.
+2: take a picture of it because you found it really interesting.
+3: brag to your friends in school about it.
+Enter choice: 1
+You had a bad itch and couldn’t stop scratching your armpits wherever you went. Your arch enemy in school made fun of you and called you a baboon. You
+1: had a scuffle with him.
+2: kept your calm and devised a revenge plan.
+Enter choice: 1
+During the scuffle, you managed to get his shirt off, exposing his bare armpits to the entire class who then made fun of him. You got sent to the principal’s office for fighting in school, and had to repay him for tearing his shirt. BUT, you had absolutely no regrets because you had the time of your life!
+<-1 money, +2 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 0            HEALTH: 1         HAPPINESS: 2
+--------------------------------------------------
+
+You're all done for this year. Grow up or quit?
+Enter:
+<1> grow up
+<2> save and quit game
+1
+Age: 14
+-------
+
+| Random Statement |
+A game called ‘Among Us’ went viral and everyone at school was raving about it. You played the game with your friends that night and you guys ended up ‘sussing’ each other ever since.
+<no effect>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 0            HEALTH: 1         HAPPINESS: 2
+--------------------------------------------------
+
+
+| Random Event |
+You have a really bad acne outbreak and had to get your photo taken for your ID later that day, you...
+Please enter the choice number when prompted!
+--------------------------------------------------
+1: secretly use your mom's makeup to cover up the acne.
+2: didn’t do anything about it because you wanted to be able to look back at your ID photo in the future and have nostalgic memories of your days of puberty.
+3: cancelled the photoshoot appointment at the last minute.
+Enter choice: 3
+Your typical asian mom went nuts and started blabbering about how irresponsible you were and how ‘money doesn’t grow on trees’. You ended up having to pay for the photoshoot the next time you went...
+<-1 money>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 0            HEALTH: 1         HAPPINESS: 2
+--------------------------------------------------
+
+You're all done for this year. Grow up or quit?
+Enter:
+<1> grow up
+<2> save and quit game
+1
+Age: 15
+-------
+
+| Random Statement |
+You found some Airpods Pro on the MTR seat and took it home, feeling like you just hit the jackpot.
+<+1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 0            HEALTH: 1         HAPPINESS: 2
+--------------------------------------------------
+
+
+| Random Event |
+You and some friends were organizing an outing, you suggested going...
+Please enter the choice number when prompted!
+--------------------------------------------------
+1: to the mall.
+2: food hunting!
+3: hiking.
+Enter choice: 3
+You guys had an amazing time watching the sunrise and scenic views at Dragon’s Back!
+<+1 health, -1 money, +1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 0            HEALTH: 2         HAPPINESS: 2
+--------------------------------------------------
+
+You're all done for this year. Grow up or quit?
+Enter:
+<1> grow up
+<2> save and quit game
+1
+Age: 16
+-------
+
+| Random Statement |
+During your school field trip, you brought your Nintendo Switch which everyone wanted to play. You didn’t let them because it was way too precious to you and now you have no friends…
+<-1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 0            HEALTH: 2         HAPPINESS: 1
+--------------------------------------------------
+
+
+| Random Event |
+Your mom signed you up for tuition because you had trashy grades, you...
+Please enter the choice number when prompted!
+--------------------------------------------------
+1: sighed and obeyed...
+2: yelled at her and told her that she had to drag you there to get you to go.
+Enter choice: 1
+She was really happy you didn’t act up and increased your allowance!
+<+1 money, +1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 2         HAPPINESS: 2
+--------------------------------------------------
+
+You're all done for this year. Grow up or quit?
+Enter:
+<1> grow up
+<2> save and quit game
+1
+Age: 17
+-------
+
+| Random Statement |
+Your parents took you on a trip to Japan and you were really excited to try Japanese food. To your disappointment, your parents, being the typical asian parents they were, saved as much money as they could by cooking themselves the entire trip...
+<-1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 2         HAPPINESS: 1
+--------------------------------------------------
+
+
+| Random Event |
+One day after school, you saw your former classmate and his friends smoking behind the school, you...
+Please enter the choice number when prompted!
+--------------------------------------------------
+1: join them!
+2: threaten to report them to the principal.
+3: ignore them and keep walking...
+Enter choice: 2
+They beat you up and extorted your money. (why in the world would you do that?!)
+<-1 health, -1 money>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 0            HEALTH: 1         HAPPINESS: 1
+--------------------------------------------------
+
+You're all done for this year. Grow up or quit?
+Enter:
+<1> grow up
+<2> save and quit game
+1
+Age: 18
+-------
+Ever since you were a kid, you had EPIC plans for your 18th birthday and IT’S YOUR BIRTHDAY!
+You made terrible life decisions and spent all your money. Now you’re broke... Weirdly, your childhood rival offered you a half day job as a waiter at his dad’s restaurant ‘Ain’t Nobody Got Thai For That!’. You
+1: accept his offer.
+2: reject his offer.
+Enter choice: ^CMakefile:17: recipe for target 'play' failed
+make: *** [play] Interrupt
+
+~/project$ make play
+./main
+Welcome to BitTeenLife, a short parody of BitLife! 
+For optimal experience, play with your terminal maximized to Fullscreen!
+Various assumptions on input:
+a) All inputs must be VALID
+b) Name must be a SINGLE word
+
+Enter:
+<1> to load new game
+<2> to load saved game
+^CMakefile:17: recipe for target 'play' failed
+make: *** [play] Interrupt
+
+~/project$ make play >| sample_output.txt
+1
+12
+^Cmake: *** [play] Interrupt
+
+~/project$ make play > sample_output.txt
+^Cmake: *** [play] Interrupt
+
+~/project$ make main
+make: 'main' is up to date.
+~/project$ ./main > sample.txt
+^C
+~/project$ make play
+./main
+Welcome to BitTeenLife, a short parody of BitLife! 
+For optimal experience, play with your terminal maximized to Fullscreen!
+Various assumptions on input:
+a) All inputs must be VALID
+b) Name must be a SINGLE word
+
+Enter:
+<1> to load new game
+<2> to load saved game
+1
+Enter name of .txt file to save game progress: saved.txt
+Enter your character's name: brian
+
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 1         HAPPINESS: 1
+--------------------------------------------------
+
+You get to upgrade one of your stats! 
+1: health
+2: money
+3: happiness
+Enter choice: 1
+
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 2         HAPPINESS: 1
+--------------------------------------------------
+
+Age: 13
+-------
+You’re obsessed with running and are fit af. One day, you joined a 10k run and just before the finish line, you looked behind to see if anyone was behind you and fell into the roadside drain, twisting your ankle really badly. You
+1: get up and fight your way to the finish line in EPIC fashion just like you see in the movies.
+2: climb out of the drain miserably and wait for medical assistance...
+Enter choice: 2
+Your crush saw you being treated and limping away on crutches and you regretted not toughing it out.
+<-1 health, -1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 1         HAPPINESS: 0
+--------------------------------------------------
+
+You were being bullied and made fun of by your classmate for being depressed. You decide to fight back, and
+1: punched them in their backside.
+2: slapped them in their fat belly.
+3: kicked them in their you know...
+Enter choice: 1
+You got sent to the principal’s office for your BRUTAL actions. However, you felt really good and got cured of your depression. Congrats!
+<+1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 1         HAPPINESS: 1
+--------------------------------------------------
+
+You just hit puberty and noticed pubic hair growing out of your armpits. You
+1: take your dad’s shaver to shave it off.
+2: take a picture of it because you found it really interesting.
+3: brag to your friends in school about it.
+Enter choice: 1
+You had a bad itch and couldn’t stop scratching your armpits wherever you went. Your arch enemy in school made fun of you and called you a baboon. You
+1: had a scuffle with him.
+2: kept your calm and devised a revenge plan.
+Enter choice: 2
+Smart choice! You went home later that day, dug up an old deleted post of him acting like a gorilla, and shared it on instagram. Everyone made fun of him in the comments and you gained more followers.
+<+1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 1         HAPPINESS: 2
+--------------------------------------------------
+
+You're all done for this year. Grow up or quit?
+Enter:
+<1> grow up
+<2> save and quit game
+1
+Age: 14
+-------
+
+| Random Statement |
+You got nominated for president of the student council and you were so busy that you didn’t take good care of your health. It was worth it though because you became the most popular kid at school!
+<-1 health, +1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 0         HAPPINESS: 2
+--------------------------------------------------
+
+
+| Random Event |
+It is the annual sports festival at your school, and you decide to...
+Please enter the choice number when prompted!
+--------------------------------------------------
+1: take part as a cheerleader.
+2: take part as a sprinter.
+3: not to take part.
+Enter choice: 3
+Your typical asian mom scolded you for being incompetent and banned you from using wifi at home for a week...
+<-1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 0         HAPPINESS: 1
+--------------------------------------------------
+
+You're all done for this year. Grow up or quit?
+Enter:
+<1> grow up
+<2> save and quit game
+1
+Age: 15
+-------
+
+| Random Statement |
+You read somewhere about this magical fat-burning pill which cost a fortune and decided to buy it. Obviously it didn’t work and now you’re depressed.
+<-2 money, -2 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 0            HEALTH: 0         HAPPINESS: 0
+--------------------------------------------------
+
+
+| Random Event |
+Halfway through your final exams, you had a reaaally bad stomach ache. However, you still had a full page left untouched, you...
+Please enter the choice number when prompted!
+--------------------------------------------------
+1: run to the toilet.
+2: stay put and hope for the best.
+Enter choice: 2
+You managed to finish the paper but unfortunately you couldn’t hold it in. Your friends made fun of you but to be fair, your mom rewarded you for getting full marks.
+<+1 money, -1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 0         HAPPINESS: 0
+--------------------------------------------------
+
+You're all done for this year. Grow up or quit?
+Enter:
+<1> grow up
+<2> save and quit game
+1
+Age: 16
+-------
+
+| Random Statement |
+One day after school, it was raining very heavily and you forgot to bring your umbrella. Your mom coincidentally got caught in the jam and you caught a cold…
+<-1 health>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 0         HAPPINESS: 0
+--------------------------------------------------
+
+
+| Random Event |
+You and some friends were organizing an outing, you suggested going...
+Please enter the choice number when prompted!
+--------------------------------------------------
+1: to the mall.
+2: food hunting!
+3: hiking.
+Enter choice: 3
+You guys had an amazing time watching the sunrise and scenic views at Dragon’s Back!
+<+1 health, -1 money, +1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 0            HEALTH: 1         HAPPINESS: 1
+--------------------------------------------------
+
+You're all done for this year. Grow up or quit?
+Enter:
+<1> grow up
+<2> save and quit game
+1
+Age: 17
+-------
+
+| Random Statement |
+During your school field trip, you brought your Nintendo Switch which everyone wanted to play. You didn’t let them because it was way too precious to you and now you have no friends…
+<-1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 0            HEALTH: 1         HAPPINESS: 0
+--------------------------------------------------
+
+
+| Random Event |
+One day after school, you saw your former classmate and his friends smoking behind the school, you...
+Please enter the choice number when prompted!
+--------------------------------------------------
+1: join them!
+2: threaten to report them to the principal.
+3: ignore them and keep walking...
+Enter choice: 3
+Well, nothing happened :D
+<no effect>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 0            HEALTH: 1         HAPPINESS: 0
+--------------------------------------------------
+
+You're all done for this year. Grow up or quit?
+Enter:
+<1> grow up
+<2> save and quit game
+1
+Age: 18
+-------
+Ever since you were a kid, you had EPIC plans for your 18th birthday and IT’S YOUR BIRTHDAY!
+You made terrible life decisions and spent all your money. Now you’re broke... Weirdly, your childhood rival offered you a half day job as a waiter at his dad’s restaurant ‘Ain’t Nobody Got Thai For That!’. You
+1: accept his offer.
+2: reject his offer.
+Enter choice: 1
+YOU GOT TROLLED. He made you wear a fake clowney waiter uniform and invited all his friends to see you working in it. You
+1: messed him up real bad in front of everyone and left him crying for his momma.
+2: endured the embarrassment and get your paycheck at the end of job.
+3: walk out of there casually.
+Enter choice: 3
+You were kinda regretting not having gotten your paycheck but IT’S YOUR LUCKY DAY because you found a 100 dollar note on the ground just outside the restaurant and used it to throw your epic birthday party.
+<+1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 0            HEALTH: 1         HAPPINESS: 1
+--------------------------------------------------
+
+You can finally start taking driving lessons! However, you got a trashy driving instructor who had anger management issues and disgusting habits. One day, you accidentally forgot to start the car without pressing the clutch and it died. He was having a really bad day and started spitting out all kinds of profanity. You
+1: remained calm and apologized nicely to him.
+2: laughed at him and got out of the car.
+3: began competing with him about who could spit the most profanity in a sentence.
+Enter choice: 1
+Were you testing out Selena Gomez's 'Kill 'Em With Kindness' tactic? Well, it worked out! He went crazy and resigned on the spot. You got assigned the best instructor ever later that day.
+<+1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 0            HEALTH: 1         HAPPINESS: 2
+--------------------------------------------------
+
+You finally get to open a bank account! When you went to the bank that day, you witnessed a bank robbery.
+You looked into your wallet and realized you were a broke kid. You
+1: join in the heist!
+2: call the police.
+Enter choice: 2
+(sorry it had to be this cliche but...) WISE CHOICE! The police came and caught the robbers, and you got a stupendous amount of cash from the bank manager for your heroic actions!
+<+2 money, +1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 2            HEALTH: 1         HAPPINESS: 2
+--------------------------------------------------
+
+You're all done for this year. Grow up or quit?
+Enter:
+<1> grow up
+<2> save and quit game
+1
+Age: 19
+-------
+
+| Random Statement |
+Oof, you got hit by a car and now you’re in the hospital
+<-1 money, -1 happiness, -1 health>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 0         HAPPINESS: 1
+--------------------------------------------------
+
+
+| Random Event |
+You have a really bad stomach ache, what do you do?
+Please enter the choice number when prompted!
+--------------------------------------------------
+1. See the doctor.
+2. Search Google for a treatment.
+3. Ignore it.
+4. Take some medicine on your own.
+Enter choice: 2
+Google said you have cancer and will die in 2 days, now you’re just depressed..
+<-1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 0         HAPPINESS: 0
+--------------------------------------------------
+
+You're all done for this year. Grow up or quit?
+Enter:
+<1> grow up
+<2> save and quit game
+1
+Age: 20
+-------
+
+| Random Statement |
+You made a weird face and your friend posted it online - you’re now a meme...
+<+1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 0         HAPPINESS: 1
+--------------------------------------------------
+
+
+| Random Event |
+You have an exam but didn’t study for it, what do you do?
+Please enter the choice number when prompted!
+--------------------------------------------------
+1. Skip the exam.
+2. Cheat.
+3. Pay someone to do it for you.
+4. Do it anyway.
+Enter choice: 2
+You got found out and got suspended!
+<-1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 0         HAPPINESS: 0
+--------------------------------------------------
+
+You're all done for this year. Grow up or quit?
+Enter:
+<1> grow up
+<2> save and quit game
+1
+Age: 21
+-------
+You didn’t take care of your health and fell ill! You...
+1. See the doctor
+2. Don't see the doctor
+Enter choice: 2
+Your situation got worse and you had to see the doctor anyway.. Blame yourself!
+<-1 money, -1 health>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 0            HEALTH: 0         HAPPINESS: 0
+--------------------------------------------------
+
+You were diagnosed with depression… You…
+1. Go for therapy
+2. Ignore it and just keep living miserably
+Enter choice: 1
+The therapy sessions worked out and you got out of that dark place, congrats!
+<+1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 0            HEALTH: 0         HAPPINESS: 1
+--------------------------------------------------
+
+You're all done for this year. Grow up or quit?
+Enter:
+<1> grow up
+<2> save and quit game
+1
+Age: 22
+-------
+
+| Random Statement |
+You got the chance to get an autograph from your favourite singer, Kanye East!
+<+1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 0            HEALTH: 0         HAPPINESS: 2
+--------------------------------------------------
+
+
+| Random Event |
+This rich hot dude named Elongated Mask wants to be your friend!
+Please enter the choice number when prompted!
+--------------------------------------------------
+1. Befriend him as a casual friend.
+2. Nah, I have enough friends. Also, what kinda name is that??
+3. Befriend him and make him your best friend.
+Enter choice: 1
+Wise choice, but I can’t tell you why yet…
+<+1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 0            HEALTH: 0         HAPPINESS: 2
+--------------------------------------------------
+
+You're all done for this year. Grow up or quit?
+Enter:
+<1> grow up
+<2> save and quit game
+1
+Age: 23
+-------
+Congratulations! You graduated from university!
+1. Get a job 
+2. Travel the world
+3. Party in the club all day
+4. Start a business
+Enter choice: 1
+You got that sweet 6-figure salary as a fresh grad and you’re making bank!
+<+1 money>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 1            HEALTH: 0         HAPPINESS: 2
+--------------------------------------------------
+
+You hit a small jackpot in the lottery!
+1. Spend it all!
+2. Save like a responsible human being
+3. Gamble on penny stocks!
+Enter choice: 1
+Why...?
+<-1 money, +1 happiness>
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 0            HEALTH: 0         HAPPINESS: 2
+--------------------------------------------------
+
+You're all done for this year. Grow up or quit?
+Enter:
+<1> grow up
+<2> save and quit game
+1
+Name: brian
+
+Age: 13
+-------
+| Event 1 |
+You’re obsessed with running and are fit af. One day, you joined a 10k run and just before the finish line, you looked behind to see if anyone was behind you and fell into the roadside drain, twisting your ankle really badly. You 
+Choice: climb out of the drain miserably and wait for medical assistance...
+Your crush saw you being treated and limping away on crutches and you regretted not toughing it out.
+
+| Event 2 |
+You were being bullied and made fun of by your classmate for being depressed. You decide to fight back, and 
+Choice: punched them in their backside.
+You got sent to the principal’s office for your BRUTAL actions. However, you felt really good and got cured of your depression. Congrats!
+
+| Event 3 |
+You just hit puberty and noticed pubic hair growing out of your armpits. You 
+Choice: take your dad’s shaver to shave it off.
+You had a bad itch and couldn’t stop scratching your armpits wherever you went. Your arch enemy in school made fun of you and called you a baboon. You 
+Choice: kept your calm and devised a revenge plan.
+Smart choice! You went home later that day, dug up an old deleted post of him acting like a gorilla, and shared it on instagram. Everyone made fun of him in the comments and you gained more followers.
+
+Age: 14
+-------
+You got nominated for president of the student council and you were so busy that you didn’t take good care of your health. It was worth it though because you became the most popular kid at school!
+It is the annual sports festival at your school, and you decide to...
+Choice: not to take part.
+Your typical asian mom scolded you for being incompetent and banned you from using wifi at home for a week...
+
+Age: 15
+-------
+You read somewhere about this magical fat-burning pill which cost a fortune and decided to buy it. Obviously it didn’t work and now you’re depressed.
+Halfway through your final exams, you had a reaaally bad stomach ache. However, you still had a full page left untouched, you...
+Choice: stay put and hope for the best.
+You managed to finish the paper but unfortunately you couldn’t hold it in. Your friends made fun of you but to be fair, your mom rewarded you for getting full marks.
+
+Age: 16
+-------
+One day after school, it was raining very heavily and you forgot to bring your umbrella. Your mom coincidentally got caught in the jam and you caught a cold…
+You and some friends were organizing an outing, you suggested going...
+Choice: hiking.
+You guys had an amazing time watching the sunrise and scenic views at Dragon’s Back!
+
+Age: 17
+-------
+During your school field trip, you brought your Nintendo Switch which everyone wanted to play. You didn’t let them because it was way too precious to you and now you have no friends…
+One day after school, you saw your former classmate and his friends smoking behind the school, you...
+Choice: ignore them and keep walking...
+Well, nothing happened :D
+
+Age: 18
+-------
+| Event 1 |
+Ever since you were a kid, you had EPIC plans for your 18th birthday and IT’S YOUR BIRTHDAY!
+You made terrible life decisions and spent all your money. Now you’re broke... Weirdly, your childhood rival offered you a half day job as a waiter at his dad’s restaurant ‘Ain’t Nobody Got Thai For That!’. You 
+Choice: accept his offer.
+YOU GOT TROLLED. He made you wear a fake clowney waiter uniform and invited all his friends to see you working in it. You 
+Choice: walk out of there casually.
+You were kinda regretting not having gotten your paycheck but IT’S YOUR LUCKY DAY because you found a 100 dollar note on the ground just outside the restaurant and used it to throw your epic birthday party.
+
+| Event 2 | 
+You can finally start taking driving lessons! However, you got a trashy driving instructor who had anger management issues and disgusting habits. One day, you accidentally forgot to start the car without pressing the clutch and it died. He was having a really bad day and started spitting out all kinds of profanity. You 
+Choice: remained calm and apologized nicely to him.
+Were you testing out Selena Gomez's 'Kill 'Em With Kindness' tactic? Well, it worked out! He went crazy and resigned on the spot. You got assigned the best instructor ever later that day.
+
+| Event 3 |
+You finally get to open a bank account! When you went to the bank that day, you witnessed a bank robbery.
+You looked into your wallet and realized you were a broke kid. You 
+Choice: call the police.
+(sorry it had to be this cliche but...) WISE CHOICE! The police came and caught the robbers, and you got a stupendous amount of cash from the bank manager for your heroic actions!
+
+Age: 19
+-------
+Oof, you got hit by a car and now you’re in the hospital
+You have a really bad stomach ache, what do you do?
+Choice: Search Google for a treatment.
+Google said you have cancer and will die in 2 days, now you’re just depressed..
+
+Age: 20
+-------
+You made a weird face and your friend posted it online - you’re now a meme...
+You have an exam but didn’t study for it, what do you do?
+Choice: Cheat.
+You got found out and got suspended!
+
+Age: 21
+-------
+| Event 1 |
+You didn’t take care of your health and fell ill! You...
+Choice: Don't see the doctor
+Your situation got worse and you had to see the doctor anyway.. Blame yourself!
+
+| Event 2 |
+You were diagnosed with depression… You…
+Choice: Go for therapy
+The therapy sessions worked out and you got out of that dark place, congrats!
+
+Age: 22
+-------
+You got the chance to get an autograph from your favourite singer, Kanye East!
+This rich hot dude named Elongated Mask wants to be your friend!
+Choice: Befriend him as a casual friend.
+Wise choice, but I can’t tell you why yet…
+
+Age: 23
+-------
+| Event 1 |
+Congratulations! You graduated from university!
+Choice: Get a job
+You got that sweet 6-figure salary as a fresh grad and you’re making bank!
+
+| Event 2 |
+You hit a small jackpot in the lottery!
+Choice: Spend it all!
+Why...?
+
+brian's stats: 
+--------------------------------------------------
+                | RANGE = [0, 2] |
+--------------------------------------------------
+MONEY: 0            HEALTH: 0         HAPPINESS: 2
+--------------------------------------------------
+
+
+You've reached the end of the game...
+You're broke and obese.. but at least you had fun, right?
+Feel free to replay the game as many times as you want, we have many more possible outcomes for you to discover!
+
+To view your game summary, open the <.txt> file you provided at the start of the game!
