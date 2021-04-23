@@ -57,4 +57,4 @@ Use the terminal in the directory where the game files (ie. the gameFiles folder
 #### Why we chose this game:
 Both of us have played BitLife and found the game fun. However, we thought the game was repetitive and uninteresting after many playthroughs, so we decided to create a parody of the game in order to make things more interesting. 
 
-### We hope you have as much playing as we had when creating the game!
+### We hope you have as much fun playing as we had creating the game!
