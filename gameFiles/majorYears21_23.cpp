@@ -167,7 +167,7 @@ void Events21 ( Stats &s, int happiness, int health, int money, string name, ofs
         fout << "You got piss drunk and didn’t remember a single thing about the event..." << endl;
       }
     }
-    else {
+    else if (*prev != 5) {
       * prev = 5;
 
       cout << "Your friend Mark Zuckabird pitches you an idea for a social media app called Facebook, do you invest?" << endl;
