@@ -8,7 +8,7 @@ Group members:
 ### (PLEASE READ THROUGH THE WHOLE FILE)
 
 #### Game description: 
-Text-based life simulator from ages 13-23, a parody of the game 'BitLife - Life Simulator'. 
+Text-based life simulator from ages 13-23, a parody of the game 'BitLife - Life Simulator'. Tested on academy21 server.
 Note: This is a game that is not supposed to be taken too seriously since it's just a parody (there will be ridiculous events thoughout the game).
 
 #### Compilation and Execution:
